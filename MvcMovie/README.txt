@@ -42,11 +42,12 @@ Clean started at 08:27 AM...
 ========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
 ========== Rebuild completed at 08:27 AM and took 05.219 seconds ==========
 
-Tested the application working fine
-Added Genre
-Added Rating 
+0901 Tested the application working fine
+0910 Added Genre
+0915 Added Rating 
 20250205135228_Rating.cs
-Tested the application
-Added Validation
-Tested
+0920 Tested the application
+0925 Added Validation
+0930 Tested
+2230 added to Azure and tested the database 
 
